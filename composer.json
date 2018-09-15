@@ -1,0 +1,21 @@
+{
+  "name": "gearsoftware/yii2-auth",
+  "description": "Authorization Module For Yii2",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "José Peña",
+      "email": "joepa37@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2-authclient": "~2.1.0",
+    "gearsoftware/yii2-core": "~0.1.0",
+    "gearsoftware/yii2-user": "~0.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "gearsoftware\\auth\\": "src"
+    }
+  }
+}
