@@ -17,7 +17,6 @@ use gearsoftware\models\User;
 
 /**
  * Auth Module For Yii2
- * Just Testing
  */
 class AuthModule extends \yii\base\Module
 {
