@@ -10,8 +10,8 @@
   ],
   "require": {
     "yiisoft/yii2-authclient": "~2.1.0",
-    "gearsoftware/yii2-core": "~1.0.0",
-    "gearsoftware/yii2-user": "~1.0.0"
+    "gearsoftware/yii2-core": "@dev",
+    "gearsoftware/yii2-user": "@dev"
   },
   "autoload": {
     "psr-4": {
