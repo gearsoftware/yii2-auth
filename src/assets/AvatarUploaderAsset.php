@@ -18,7 +18,7 @@ use yii\web\AssetBundle;
  */
 class AvatarUploaderAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/gearsoftware/yii2-auth/assets/source';
+    public $sourcePath = '@vendor/gearsoftware/yii2-auth/src/assets/source';
     public $css = ['css/avatar-uploader.css'];
     public $js = ['js/avatar-uploader.js'];
     public $depends = ['yii\web\JqueryAsset'];

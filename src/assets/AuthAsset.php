@@ -18,7 +18,7 @@ use yii\web\AssetBundle;
  */
 class AuthAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/gearsoftware/yii2-auth/assets/source';
+    public $sourcePath = '@vendor/gearsoftware/yii2-auth/src/assets/source';
     public $css = [
         'css/authstyle.css',
     ];
